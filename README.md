@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gvinianidzegivi&label=Profile%20views&color=0e75b6&style=flat" alt="gvinianidzegivi" /> </p>
 
-- 📫 Email: **gvinianidzegivi@gmail.com**
+📫 **GvinianidzeGivi@gmail.com**
 
-<h3 align="left">Connect with me in: <a href="https://linkedin.com/in/givi-gvinianidze-2344b4113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="givi-gvinianidze-2344b4113/" height="30" width="40" /></a></h3>
+<h3 align="left">Connect with me <a href="https://linkedin.com/in/givi-gvinianidze-2344b4113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="givi-gvinianidze-2344b4113/" height="30" width="40" /></a></h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
