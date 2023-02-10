@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=GvinianidzeGivi&icon=9&color=12)](https://visitcount.itsvg.in)
 
-## Hey, I'm Givi. 
+## Hey, 👋🏼I'm Givi. 
 I live in Georgia. I'm Lecturer and Front-End / JavaScript Developer since 2014.
 
 ### Get In Touch
@@ -8,5 +8,7 @@ I live in Georgia. I'm Lecturer and Front-End / JavaScript Developer since 2014.
 
 ### What I Work With
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&amp;logo=redux&amp;logoColor=white" alt="Redux">
 
-![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=kungojung&show_icons=true&theme=dark)
+![Givi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvinianidzegivi&show_icons=true&theme=dark)
