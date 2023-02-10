@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=GvinianidzeGivi&icon=9&color=12)](https://visitcount.itsvg.in)
 
-## Hey 👋🏼, 🏼I'm Givi. 
+## Hey 👋🏼, I'm Givi
 I live in Georgia. I'm Lecturer and Front-End / JavaScript Developer since 2014.
 
 ### Get In Touch
