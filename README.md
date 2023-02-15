@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=GvinianidzeGivi&icon=9&color=12)](https://visitcount.itsvg.in)
 
 ## Hey 👋🏼, I'm Givi
-I'm Lecturer and Front-End / JavaScript Developer since 2014.
+Lecturer and Front-End Developer since 2014.
 
 ### Get In Touch
 <a href="mailto:gvinianidzegivi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/givi-gvinianidze-2344b4113/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/@gvinianidzegivi"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
